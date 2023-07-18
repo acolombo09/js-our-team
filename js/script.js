@@ -76,6 +76,7 @@ for (let i in teamMembers) {
 
   // Creo una scheda per il membro del team
   let cardHTML =
+    '<div class="col">' +
     '<div class="card">' +
     '<img class="card-img-top" src="img/' +
     member.profilePic +
