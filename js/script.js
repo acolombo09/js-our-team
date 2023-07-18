@@ -81,7 +81,7 @@ for (let i in teamMembers) {
     '<img class="card-img-top" src="img/' +
     member.profilePic +
     '">' +
-    '<div class="card-body">' +
+    '<div class="card-body text-center bg-white">' +
     "<h5 class='card-title'>" +
     member.firstName +
     " " +
